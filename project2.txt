@@ -1,0 +1,3 @@
+When you make a project, you need some text to commit.
+
+Be careful what you type, it may come back to byte you.
